@@ -1,0 +1,49 @@
+[27-May-2020 01:09:58 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/clientinvestors/public_html/Dashboard/db/config.php on line 2
+[27-May-2020 01:09:58 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 221
+[27-May-2020 01:09:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[27-May-2020 01:11:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[27-May-2020 01:11:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/disp_reports.php on line 201
+[27-May-2020 01:12:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[27-May-2020 01:13:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[27-May-2020 06:01:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[27-May-2020 06:03:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[27-May-2020 09:46:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[28-May-2020 01:11:30 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[28-May-2020 01:46:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/disp_reports.php on line 201
+[28-May-2020 01:47:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/disp_reports.php on line 201
+[28-May-2020 01:47:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[28-May-2020 05:02:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[28-May-2020 11:26:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[28-May-2020 13:11:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[28-May-2020 13:56:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[28-May-2020 13:59:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[29-May-2020 05:54:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[29-May-2020 06:09:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[29-May-2020 06:29:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[29-May-2020 12:50:13 Asia/Kolkata] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/clientinvestors/public_html/Dashboard/fAddProduct.php on line 363
+[29-May-2020 12:50:13 Asia/Kolkata] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/clientinvestors/public_html/Dashboard/fAddProduct.php on line 368
+[29-May-2020 12:50:13 Asia/Kolkata] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/clientinvestors/public_html/Dashboard/fAddProduct.php on line 373
+[29-May-2020 12:52:26 Asia/Kolkata] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/clientinvestors/public_html/Dashboard/fAddProduct.php on line 363
+[29-May-2020 12:52:26 Asia/Kolkata] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/clientinvestors/public_html/Dashboard/fAddProduct.php on line 368
+[29-May-2020 12:52:26 Asia/Kolkata] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/clientinvestors/public_html/Dashboard/fAddProduct.php on line 373
+[29-May-2020 12:55:30 Asia/Kolkata] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/clientinvestors/public_html/Dashboard/fAddProduct.php on line 363
+[29-May-2020 12:55:30 Asia/Kolkata] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/clientinvestors/public_html/Dashboard/fAddProduct.php on line 368
+[29-May-2020 12:55:30 Asia/Kolkata] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/clientinvestors/public_html/Dashboard/fAddProduct.php on line 373
+[29-May-2020 13:01:31 Asia/Kolkata] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/clientinvestors/public_html/Dashboard/fAddProduct.php on line 363
+[29-May-2020 13:01:31 Asia/Kolkata] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/clientinvestors/public_html/Dashboard/fAddProduct.php on line 368
+[29-May-2020 13:01:31 Asia/Kolkata] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/clientinvestors/public_html/Dashboard/fAddProduct.php on line 373
+[29-May-2020 08:41:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[29-May-2020 08:43:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[29-May-2020 08:43:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[29-May-2020 08:45:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[29-May-2020 08:47:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[29-May-2020 08:53:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[29-May-2020 08:56:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[29-May-2020 08:58:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[29-May-2020 09:17:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[29-May-2020 09:17:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 222
+[29-May-2020 11:28:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 267
+[29-May-2020 11:30:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 267
+[29-May-2020 11:34:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 267
+[29-May-2020 11:34:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/index.php on line 267
+[29-May-2020 11:35:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/clientinvestors/public_html/Dashboard/sdisp.php on line 235

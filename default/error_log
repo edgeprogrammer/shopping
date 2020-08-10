@@ -1,0 +1,7 @@
+[23-May-2020 22:09:48 America/Chicago] PHP Warning:  mail(): headers parameter must be string or array in /home/clientinvestors/public_html/default/email.php on line 10
+[03-Jun-2020 09:41:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/clientinvestors/public_html/default/registration.php on line 12
+[03-Jun-2020 09:43:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/clientinvestors/public_html/default/registration.php on line 12
+[03-Jun-2020 09:44:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/clientinvestors/public_html/default/registration.php on line 12
+[03-Jun-2020 09:45:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/clientinvestors/public_html/default/registration.php on line 12
+[03-Jun-2020 09:47:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/clientinvestors/public_html/default/registration.php on line 12
+[03-Jun-2020 09:53:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/clientinvestors/public_html/default/registration.php on line 12

@@ -1,0 +1,33 @@
+.men
+{
+  width: 100%;
+  height: 30em;  
+  
+}
+
+
+.women
+{
+  width: 100%;
+  height: 30em;  
+}
+.women img
+{
+  width: 100%;
+}
+
+
+.child
+{
+  height: 30em;
+}
+
+
+.sHand
+{
+/*   height: 25em; */
+}
+.sHand img
+{
+  height: 15em;
+}

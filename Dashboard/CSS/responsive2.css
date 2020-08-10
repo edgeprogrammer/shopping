@@ -1,0 +1,456 @@
+@media only screen and (max-width: 1440px)
+{
+  
+  #pg-contact .form-group
+  {
+   width: 19%;
+  }
+  
+  #pg-nav .navbar-right 
+  {
+    border: 1px solid red;
+    margin-right: 2%;
+    width: 36%;
+  }
+  #pg-nav ul li
+  {
+    margin-left: 1%;
+  }
+
+}
+@media only screen and (max-width: 1280px)
+{
+  
+  #pg-nav .navbar-right 
+  {
+/*     border: 1px solid red; */
+    margin-right: 2%;
+    width: 35%;
+  }
+  #pg-nav ul li
+  {
+    margin-left: 1%;
+  }
+
+  
+  #section2
+  {
+    padding-top: 10%;
+  }
+  #section3
+  {
+    padding-top: 10%;
+  }
+  #section4
+  {
+    padding-top: 10%;
+  }
+  #section5
+  {
+    padding-top: 10%;
+  }
+
+
+}
+
+@media only screen and (max-width: 1024px)
+{
+  
+  #pg-nav .navbar-right 
+  {
+/*     border: 1px solid red; */
+    margin-right: 2%;
+    width: 43%;
+  }
+  #pg-nav ul li
+  {
+    margin-left: 1%;
+  }
+  
+/*   section 2 start */
+
+  #section2
+  {
+    padding-top: 10%;
+  }
+/*   section 2 stop */
+
+/*   section 3 start */
+  #section3
+  {
+    padding-top: 10%;
+  }
+/*   section 3 stop */
+/*   section 4 start */
+
+  #section4
+  {
+    padding-top: 10%;
+  }
+  #pg-about .pg-a-title h3
+  {
+    margin-left: 0%;
+  }
+
+/*   section 4 stop */
+
+/*   section 5 start */
+  #section5
+  {
+    padding-top: 10%;
+  }
+ 
+
+}
+
+@media only screen and (max-width: 834px)
+{
+/*   nav section start */
+  #pg-nav .navbar-right 
+  {
+/*     border: 1px solid red; */
+    margin-right: 2%;
+    width: 55%;
+  }
+  #pg-nav ul li
+  {
+    margin-left: 1%;
+  } 
+
+/*   nav section stop */
+
+/*   section 1 start */
+  #section1
+  {
+    padding-top: 10%;
+  }
+
+
+/*   section 1 stop */
+/*   section 2 start  */
+  #section2
+  {
+    padding-top: 12%;
+  }
+  #pg-service .row .col-xl-4
+  {
+    margin-top: 2%;
+  }
+  #pg-service .card
+  {
+
+
+  }
+  #pg-service .card .card-img-top
+  {
+    width: 50%;
+  }
+
+/*   section 2 stop */
+
+/*   section 3 start */
+ #section3
+  {
+    padding-top: 14%;
+  }
+  #pg-download
+  {
+    text-align: center;
+    padding-lefT: 0px;
+  }
+  #pg-download .pg-d-img
+  {
+    margin-lefT: 0px;
+    width: 30%;
+  }
+  #pg-download .pg-d-contant
+  {
+    margin-top: 10%;
+  }
+
+/*   section 3 stop */
+
+/*   section 4 start */
+
+/*   section 4 stop */
+
+/*   section 5 start */
+
+/*   section 5 stop */
+
+/*   section footer start */
+  
+}
+
+/*
+   ========================================*  
+*/
+
+@media only screen and (max-width: 800px)
+{
+    
+/*   nav section start */
+  #pg-nav .navbar-right 
+  {
+/*     border: 1px solid red; */
+    margin-right: 2%;
+    width: 55%;
+  }
+  #pg-nav ul li
+  {
+    margin-left: 1%;
+  } 
+
+/*   nav section stop */
+
+
+/*   section 3 start */
+
+/*   section 3 stop */
+
+/*   section 4 start */
+
+/*   section 4 stop */
+
+/*   section 5 start */
+
+/*   section 5 stop */
+
+/*   section footer start */
+
+/*   section footer stop*/
+
+}
+
+@media only screen and (max-width: 767px)
+{
+  /*   nav section start */
+  #pg-nav .navbar-right 
+  {
+/*     border: 1px solid red; */
+    margin-right: 2%;
+    width: 100%;
+  }
+  #pg-nav .nav li
+  {
+    border: 0px solid;
+    text-align: center;
+    margin-top: 1%;
+  }
+
+/*   nav section stop */
+
+  
+
+
+
+  /* #pg-nav .nav
+  {
+    text-align: center;
+    width: 100%;
+    padding-top: 0;
+  } */
+
+  /* #pg-nav .navbar-nav
+  {
+    border: 1px solid red;
+    padding-top: 0px;
+
+  } */
+  /* #pg-nav .navbar-nav li
+  {
+    bordeR: 1px solid green;
+    bordeR: 0px ;
+    width: 100%;
+    height: 4em;
+    font-size: 120%;
+    height: auto;
+    margin-top: 2%;
+  } */
+  
+  /* #pg-nav #myNavbar
+  {
+    bordeR: 1px solid red;
+    margin-top: -3em;
+  } */
+  /* #pg-nav .collapse
+  {
+    padding-top: 0%;
+    margin-top: 0px;
+  } */
+  /* #pg-nav .navbar-collapse
+  {
+   border: 3px solid yellow;
+    margin-top: -1em;
+    padding: 0px;
+  } */
+
+
+
+/*   nav section end */
+  
+/*   footer section start */
+  
+}
+
+@media only screen and (max-width: 600px)
+{
+
+}
+
+@media only screen and (max-width: 480px)
+{
+  /* #pg-nav .logo
+  {
+    width: 70%;
+    margin-top: -14%;;
+  } */
+
+}
+
+@media only screen and (max-width: 414px)
+{
+  /* #pg-nav #myNavbar li
+  {
+    height: 3.1em;
+    width: 105%;
+  } */
+}
+
+
+@media only screen and (max-width: 412px)
+{
+
+}
+
+@media only screen and (max-width: 384px)
+{
+
+}
+
+@media only screen and (max-width: 375px)
+{
+
+}
+
+@media only screen and (max-width: 360px)
+{
+
+}
+@media only screen and (max-width: 320px)
+{
+
+}
+@media only screen and (max-width: 300px)
+{
+
+}
+
+/*
+==============================================
+*/
+@media only screen and (max-width: 240px)
+{
+/*   nav section start */
+  
+  
+/*  nav section end */
+  
+/*   section 1 start */
+  #section1
+  {
+    padding-top: 20%;
+  }
+  #pg-header .h_img
+  {
+    width: 70%;
+  }
+  #pg-header .h_h3
+  {
+    padding-top: 4%;
+    font-size: 1.5em;
+  }
+  #pg-header .h_h4
+  {
+    padding-top: 4%;
+    font-size: 1em;
+  }  
+/*   section 1 end */
+  
+/*   section 2 start */
+  #section2 
+  {
+    padding-top: 25%;
+  }
+  #pg-service .pg-s-h4
+  {
+    font-size: 160%;
+  }
+  #pg-service .card
+  {
+    margin-top: 5%;
+  }
+  #pg-service .card-img-top
+  {
+/*     bordeR: 1px solid red; */
+    height: 30%;
+  }
+ 
+    
+/*   section 2 end */
+  
+/*   section 3 start */
+  #section3
+  {
+    padding-top: 30%;
+  }
+  #pg-download .pg-d-contant h2
+  {
+    font-size: 150%;
+  }
+  #pg-download .pg-d-contant img
+  {
+    width: 80%;
+    
+  }
+  
+  
+/*   section  3 end */
+  
+/*   section 4 start */
+   #pg-about .s4_top_hr
+   {
+      display: none;
+   }
+  #pg-about .pg-a-content .about_p
+  {
+    font-size: 100%;
+  }
+  
+  
+/*   section 4 end */
+
+
+}
+
+@media only screen and (max-width: 767px){
+  #footer .f1 .f_logo
+  {
+  width: 20%;
+  border-radius: 50%;
+  padding-bottom: 3%;
+  }
+  #footer .f1 .f-icon
+  {
+    margin-top: -2%;
+    width: 5%;
+  }
+  #footer .f1
+  {
+    text-align: left;
+  }
+  #pg-contact .form-group
+  {
+   width: 100%;
+  }
+}
